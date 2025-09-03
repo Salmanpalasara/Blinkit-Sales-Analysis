@@ -23,10 +23,13 @@ Total Sales by Outlet Location: The analysis shows that Tier 3 locations have th
 
 Total Sales by Outlet Size: A bar chart indicates that Medium-sized outlets have the highest total sales.
 
+cretae Heatmap in some Columns.
+
 <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/b7d86945-29aa-496f-8061-9f582d26c32b" />
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2f48c404-c5e7-4101-8962-0b04d25fbae3" />
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/e029f175-b4b1-4587-ac09-361ebfbdc95d" />
 <img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/9da23f2f-aecb-4054-8f13-cd8afc5cc028" />
 <img width="453" height="470" alt="image" src="https://github.com/user-attachments/assets/6e81ae36-e0f1-47b9-9a1b-64f721395ee8" />
 <img width="790" height="290" alt="image" src="https://github.com/user-attachments/assets/b7e550e6-2f77-45f8-a01f-de43c430b5a5" />
+<img width="593" height="470" alt="image" src="https://github.com/user-attachments/assets/2461ef54-6f73-4a77-895e-6d091d903380" />
 
